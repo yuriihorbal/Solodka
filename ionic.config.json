@@ -1,0 +1,14 @@
+{
+  "name": "Solodka",
+  "app_id": "15675b47",
+  "type": "ionic1",
+  "integrations": {
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
